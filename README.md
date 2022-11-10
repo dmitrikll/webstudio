@@ -1,3 +1,3 @@
-# webstudio
+webstudio
 
-simple landing (html + css)
+simple landing
